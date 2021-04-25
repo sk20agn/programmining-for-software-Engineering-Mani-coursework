@@ -1,0 +1,8 @@
+To run this project you have to do the following steps:
+
+1. Install JAVA jdk in your system.
+2. To execute project you have to install intellij idea.
+3. Open this project in your intellij and wait for a while so that intellij can configure project.
+4. After this, in src folder there is a file named Main,open this file and click run button.
+5. Project will start executing and will give output in console of intellij.
+
